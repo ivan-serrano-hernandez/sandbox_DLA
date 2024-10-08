@@ -1,5 +1,5 @@
 
-# TensorRT: ONNX to TensorRT Conversion Guide
+# Nvidia Deep Learning Accelerator with TensorRT
 
 This guide provides step-by-step instructions on converting ONNX models to TensorRT using both **GPU** and **NVIDIA Deep Learning Accelerator (DLA)**, as well as verifying the TensorRT engine. It also includes important restrictions when using DLA.
 
